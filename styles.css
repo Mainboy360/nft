@@ -8,6 +8,35 @@
 
     }
 
+     .outfit-normal {
+        font-family: "Outfit", sans-serif;
+        font-optical-sizing: auto;
+        font-style: normal;
+    }
+        
+    .outfit-300 {
+        font-family: "Outfit", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 300;
+        font-style: normal;
+    }
+    
+    .outfit-400 {
+        font-family: "Outfit", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 400;
+        font-style: normal;
+    }
+    
+       .outfit-600 {
+        font-family: "Outfit", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 600;
+        font-style: normal;
+    }
+
+
+
 
     .nft-card-container {
         display: flex;
@@ -215,7 +244,7 @@
         align-items: center;
         gap: 100px;
         border-bottom: 1px solid  hsl(215, 51%, 70%);
-        margin: 0px 5px 10px 5px;
+        margin: 20px 5px 10px 5px;
     }
 
     .cristal,
@@ -295,9 +324,9 @@
         display: flex;
         justify-content: left;
         align-items: center;
-        gap: 100px;
+        gap: 80px;
         border-bottom: 1px solid  hsl(215, 51%, 70%);
-        margin: 0px 20px 10px 5px;
+        margin: 20px 20px 10px 5px;
     }
 
     .cristal,
@@ -378,9 +407,9 @@
         display: flex;
         justify-content: left;
         align-items: center;
-        gap: 90px;
+        gap: 70px;
         border-bottom: 1px solid  hsl(215, 51%, 70%);
-        margin: 0px 20px 10px 20px;
+        margin: 20px 20px 10px 20px;
     }
 
     .cristal,
@@ -459,9 +488,9 @@
         display: flex;
         justify-content: left;
         align-items: center;
-        gap: 60px;
+        gap: 40px;
         border-bottom: 1px solid  hsl(215, 51%, 70%);
-        margin: 0px 20px 10px 15px;
+        margin: 20px 20px 10px 15px;
     }
 
     .cristal,
@@ -539,9 +568,9 @@
         display: flex;
         justify-content: left;
         align-items: center;
-        gap: 60px;
+        gap: 40px;
         border-bottom: 1px solid  hsl(215, 51%, 70%);
-        margin: 0px 20px 10px 15px;
+        margin: 20px 20px 10px 15px;
     }
 
     .cristal,
@@ -619,9 +648,9 @@
         display: flex;
         justify-content: left;
         align-items: center;
-        gap: 80px;
+        gap: 40px;
         border-bottom: 1px solid  hsl(215, 51%, 70%);
-        margin: 0px 20px 10px 15px;
+        margin: 20px 20px 10px 15px;
     }
 
     .cristal,
@@ -698,9 +727,9 @@
         display: flex;
         justify-content: left;
         align-items: center;
-        gap: 80px;
+        gap: 50px;
         border-bottom: 1px solid  hsl(215, 51%, 70%);
-        margin: 0px 20px 10px 15px;
+        margin: 20px 20px 10px 15px;
     }
 
     .cristal,
@@ -778,7 +807,7 @@
         display: flex;
         justify-content: left;
         align-items: center;
-        gap: 70px;
+        gap: 50px;
         border-bottom: 1px solid  hsl(215, 51%, 70%);
         margin: 20px 20px 10px 5px;
     }
@@ -859,7 +888,7 @@
         display: flex;
         justify-content: left;
         align-items: center;
-        gap: 70px;
+        gap: 50px;
         border-bottom: 1px solid  hsl(215, 51%, 70%);
         margin: 20px 20px 10px 5px;
     }
