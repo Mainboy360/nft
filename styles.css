@@ -96,7 +96,7 @@
         justify-content: center;
         align-items: center;
         flex-direction: column;
-        margin: 50px 50px 10px 50px;
+        margin: 50px 20px 10px 20px;
     }
 
 
@@ -107,7 +107,7 @@
         flex-direction: column;
         background-color: hsl(216, 50%, 16%);
         margin: 30px 50px 50px;
-        padding: 20px 20px 20px 20px;
+        padding: 20px 25px 20px 25px;
         border-radius: 20px;
 
     }
@@ -122,7 +122,7 @@
 
 
     .header-and-para {
-        margin: 20px 10px 5px 10px;
+        margin: 20px 5px 5px 5px;
         line-height: 1.7; 
     }
 
@@ -131,9 +131,9 @@
         display: flex;
         justify-content: left;
         align-items: center;
-        gap: 25px;
+        gap: 40px;
         border-bottom: 1px solid  hsl(215, 51%, 70%);
-        margin: 0px 20px 10px 10px;
+        margin: 0px 5px 10px 5px;
     }
 
     .cristal,
