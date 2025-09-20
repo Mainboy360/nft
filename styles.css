@@ -1,0 +1,83 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    background-color: hsl(217, 54%, 11%);
+
+}
+
+
+
+.nft-card-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 50px 500px 10px 500px;
+}
+
+
+.nft-card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: hsl(216, 50%, 16%);
+    margin: 30px 100px 100px;
+    padding: 20px 10px 20px 10px;
+    border-radius: 20px;
+
+}
+
+
+
+img[Src*="image-equilibrium.jpg"] {
+    width: 280px;
+    height: auto;
+    border-radius: 10px;
+}
+
+
+.header-and-para {
+    margin: 20px 20px 5px 20px;
+    line-height: 1.7; 
+}
+
+
+.cristal-and-days {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    gap: 89px;
+    border-bottom: 1px solid  hsl(215, 51%, 70%);
+    margin: 0px 20px 10px 20px;
+}
+
+.cristal,
+.days {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    padding: 10px 0px 20px 0px;
+}
+
+.creator-equilibrium {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 20px;
+    margin-left: -60px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+img[src*="image-avatar.png"] {
+    width: 20px;
+    height: auto;
+    border-radius: 50%;
+    border-color: white;
+    border: 1px solid white;
+}
