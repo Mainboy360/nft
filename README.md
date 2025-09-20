@@ -20,7 +20,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](.images\Screenshot 2025-09-20 at 15-15-37 NFT Card.png)
+![](.images\screenshot.png)
 
 
 ### Links
